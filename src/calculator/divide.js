@@ -1,9 +1,9 @@
 /**
  * Division
  */
- function add(firstNum, secondNum) {
+ function divide(firstNum, secondNum) {
     return firstNum /secondNum;
   }
   
-  module.exports = add
+  module.exports = divide
   
